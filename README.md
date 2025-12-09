@@ -5,10 +5,12 @@ Description Modeling
 # Pizza Delivery Classification
 Description Modeling: ทำนายโอกาสในการเกิด Order Delay
 
-## Problem
+## Problem <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/cc79fcf2-8915-431e-993d-db2497468424" />
+
 - เวลาการจัดส่งพิซซ่าแตกต่างกันในแต่ละร้าน และมี Order ถึง 20% ที่ใช้เวลาจัดส่ง เกินมาตรฐาน (มากกว่า 30 นาที) ซึ่งทำให้เกิดปัญหาความไม่พอใจของลูกค้า
 
-## Objective
+## Objective <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/a9836ac9-2ca9-49cc-9692-fab00e819f55" />
+
 - ลดเปอร์เซ็นต์การส่งล่าช้า จาก 20% ให้เหลือ 10% ภายใน 3 เดือน โดยการวิเคราะห์ปัจจัยและพัฒนาโมเดลเพื่อ ทํานายโอกาสที่ Order จะเกิดการจัดส่งล่าช้า (Delay) ​
 
 ## ปัจจัยที่ทำให้ Delay เพิ่มขึ้น
