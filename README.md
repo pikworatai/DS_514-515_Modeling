@@ -1,4 +1,4 @@
-# DS_514-515 Part Modeling <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/68d8319f-4f73-4c0e-b3c8-847d1efcf649" />
+# DS_514-515 Part Modeling <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/68d8319f-4f73-4c0e-b3c8-847d1efcf649" />
 
 Description Modeling
 
