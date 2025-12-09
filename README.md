@@ -5,7 +5,7 @@ Description Modeling
 # Pizza Delivery Classification
 Description Modeling: ทำนายโอกาสในการเกิด Order Delay
 
-## Problem <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/cc79fcf2-8915-431e-993d-db2497468424" />
+## Problem <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/e679932e-c4d7-42f1-9679-e54ce0bbf9b9" />
 
 - เวลาการจัดส่งพิซซ่าแตกต่างกันในแต่ละร้าน และมี Order ถึง 20% ที่ใช้เวลาจัดส่ง เกินมาตรฐาน (มากกว่า 30 นาที) ซึ่งทำให้เกิดปัญหาความไม่พอใจของลูกค้า
 
