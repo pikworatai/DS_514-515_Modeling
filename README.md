@@ -1,6 +1,5 @@
 # DS_514-515 Part Modeling <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/68d8319f-4f73-4c0e-b3c8-847d1efcf649" />
 
-# Pizza Delivery Classification
 Description Modeling: ทำนายโอกาสในการเกิด Order Delay
 
 ## Problem <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/e679932e-c4d7-42f1-9679-e54ce0bbf9b9" />
@@ -11,13 +10,13 @@ Description Modeling: ทำนายโอกาสในการเกิด 
 
 - ลดเปอร์เซ็นต์การส่งล่าช้า จาก 20% ให้เหลือ 10% ภายใน 3 เดือน โดยการวิเคราะห์ปัจจัยและพัฒนาโมเดลเพื่อ ทํานายโอกาสที่ Order จะเกิดการจัดส่งล่าช้า (Delay) ​
 
-## ปัจจัยที่ทำให้ Delay เพิ่มขึ้น
-1. ระยะทางไกล:ระยะเวลาขนส่งเพิ่ม
-2. ช่วง Peak time:ร้านทำไม่ทัน
-3. Pizza Size/Complex:เวลาทำเพิ่ม
-4. จำนวน toppings เยอะ:เตาเต็มใช้เวลามากขึ้น
-5. จันทร์–ศุกร์ช่วงเย็น:รถติด
-
+## จาก Dashboard การวิเคราะห์ปัจจัยที่ทำให้ Order การเกิด Delay สามารถสรุปผลได้ดังนี้
+1. ระยะทางไกล:ยิ่งระยะทางไกลขึ้นยิ่งส่งผลให้ระยะเวลาในการส่งสินค้าเพิ่มขึ้น
+2. ช่วง Peak time: Order เยอะขึ้นส่งผลให้ร้านทำ Pizza ไม่ทัน
+3. Pizza Size/Complex: Oreder ที่มีการสั่ง Pizza ขนาดใหญ่ หรือ หน้า Pizza ที่ซับซ้อน จะส่งผลให้ Order Delay เพิ่มขึ้น อาจจะเกิดจากเวลาในการผลิตเพิ่มขึ้น
+4. จำนวน toppings เยอะ:Order ที่มีจำนวน Topping เยอะ ส่งผลให้ Order เกิดการ Delay เพิ่มขึ้น 
+5. Traffic:  Order ที่สั่งในช่วงเวลาเร่งด่วน ส่งผลทำให้ Order เกิดการ Delay เพิ่มขึ้น
+6. 
 ## Feature 
 1. Order Month
 2. Order Hour
