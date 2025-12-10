@@ -55,7 +55,7 @@ Description Modeling: ทำนายโอกาสในการเกิด 
    - Evaluation: Confusion Matrix, Accuracy, Prediction, Recall
 
 ## Result: Logistic Regression
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/0f1da32c-da42-49a2-b1da-d6539bc5302a" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/0f1da32c-da42-49a2-b1da-d6539bc5302a" />
 
 
               precision    recall  f1-score   support
@@ -68,7 +68,7 @@ Test accuracy: 98.68%
 
 ## Result: K-Nearest Neighbors (KNN)
 
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/f8ca66a0-b112-4886-b81a-ec29d036b61e" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/f8ca66a0-b112-4886-b81a-ec29d036b61e" />
 
               precision    recall  f1-score   support
 
