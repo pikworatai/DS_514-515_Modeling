@@ -15,7 +15,7 @@ Description Modeling: ทำนายโอกาสในการเกิด 
 2. ช่วง Peak time: Order เยอะขึ้นส่งผลให้ร้านทำ Pizza ไม่ทัน
 3. Pizza Size/Complex: Oreder ที่มีการสั่ง Pizza ขนาดใหญ่ หรือ หน้า Pizza ที่ซับซ้อน จะส่งผลให้ Order Delay เพิ่มขึ้น อาจจะเกิดจากเวลาในการผลิตเพิ่มขึ้น
 4. จำนวน toppings เยอะ:Order ที่มีจำนวน Topping เยอะ ส่งผลให้ Order เกิดการ Delay เพิ่มขึ้น 
-5. Traffic:  Order ที่สั่งในช่วงเวลาเร่งด่วน ส่งผลทำให้ Order เกิดการ Delay เพิ่มขึ้น
+5. Traffic:  Order ที่สั่งใน เส้นทางที่ซับซ้อน ส่งผลทำให้ Order เกิดการ Delay เพิ่มขึ้น
  
 ## Feature 
 1. Order Month
