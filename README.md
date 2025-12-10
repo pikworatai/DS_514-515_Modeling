@@ -18,6 +18,23 @@ Description Modeling: ทำนายโอกาสในการเกิด 
 4. จำนวน toppings เยอะ:เตาเต็มใช้เวลามากขึ้น
 5. จันทร์–ศุกร์ช่วงเย็น:รถติด
 
+## Feature 
+1. Order Month
+2. Order Hour
+3. Is Peak Hour
+4. Is Weekend
+5. Restaurant Name
+6. Distance (km)
+7. Traffic Level
+8. Pizza Size
+
+## Target 
+1. Is_Delayed
+
+## Model ที่ใช้ในการทำนาย
+1. Logistic Regression
+2. K-Nearest Neighbors (KNN)
+
 ไฟล์ notebook  👇
 > (https://colab.research.google.com/drive/15UUeDXQZCGObylcQPheG4nQJxgK4GVdL)
 
