@@ -141,7 +141,7 @@ False Negative (ความเสี่ยง): มีแค่ 4 รายก�
 ## หมายเหตุ: โมเดล KNN ที่ทดสอบเปรียบเทียบกัน มีความแม่นยำที่ 93.05% จึงตัดสินใจเลือก Logistic Regression เป็น Model ที่ดีที่สุด
 
 
-## File Presentation <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/7317ad3e-510d-4cd3-a6f2-3b987de827a9" />
+## Presentation Document <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/7317ad3e-510d-4cd3-a6f2-3b987de827a9" />
 
 
 
