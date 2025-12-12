@@ -142,6 +142,6 @@ False Negative (ความเสี่ยง): มีแค่ 4 รายก�
 
 
 ## Presentation Document <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/7317ad3e-510d-4cd3-a6f2-3b987de827a9" />
-
+👉 [📑 File Presentation Pizza Delivery](https://github.com/pikworatai/DS_514-515_Modeling/blob/main/Pizza_Delivery.pdf)
 
 
