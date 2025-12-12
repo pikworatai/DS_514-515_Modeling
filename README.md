@@ -1,5 +1,7 @@
-# DS_514-515 Part Modeling <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/68d8319f-4f73-4c0e-b3c8-847d1efcf649" />
+# DS 514-515 Part Modeling <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b356d884-c1f4-4482-984e-16588e5bac4a" />
 
+
+## Pizza Delivery Project <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/68d8319f-4f73-4c0e-b3c8-847d1efcf649" />
 Description Modeling: ทำนายโอกาสในการเกิด Order Delay
 
 ## Problem <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/e679932e-c4d7-42f1-9679-e54ce0bbf9b9" />
