@@ -42,7 +42,7 @@ Description Modeling: ทำนายโอกาสในการเกิด 
 1. Logistic Regression
 2. K-Nearest Neighbors (KNN)
 
-## ไฟล์ notebook 👉 [📑 Colab Notebook](https://github.com/pikworatai/DS_514-515_Modeling/blob/main/Project_Final_Pizza_Delivery_Predict_Delayed_Ver4.ipynb)
+## ไฟล์ notebook 👉 [📑 Colab Notebook](https://github.com/pikworatai/DS_514-515_Modeling/blob/main/Project_Final_Pizza_Delivery_Predict_Delay.ipynb)
 
 ## ขั้นตอนการทำงาน <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/de309902-81c7-423f-933d-0840ff370563" />
 1. Cleansing Data
