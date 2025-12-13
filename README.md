@@ -68,7 +68,7 @@ Description Modeling: ทำนายโอกาสในการเกิด 
               
      Class 0       0.99      1.00        0.99       242
      Class 1       0.98      0.97        0.97       60
-    accuracy                             0.99       302
+     accuracy                            0.99       302
      macro avg       0.99      0.98      0.98       302
      weighted avg    0.99      0.99      0.99       302
    
